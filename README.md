@@ -1,6 +1,4 @@
-# UAS Praktikum DPW
-
-Repository Tugas Ujian Akhir Semester Praktikum mata kuliah Desain dan Pemrograman Web 2022
+# Random Meal Generator
 
 > Arik Rizki Akbar
 > NIM 2007392 
